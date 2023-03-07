@@ -13,7 +13,7 @@ export const LOGIN = gql `
                     bookId
                     title
                     description
-                    author
+                    authors
                     link
                     image
                 }
@@ -44,7 +44,7 @@ export const SAVE_BOOK = gql `
                 bookId
                 title
                 description
-                author
+                authors
                 link
                 image
             }

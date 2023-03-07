@@ -9,7 +9,7 @@ export const GET_USER = gql `
             bookCount
             savedBooks{
                 bookId
-                author
+                authors
                 image
                 description
                 title
