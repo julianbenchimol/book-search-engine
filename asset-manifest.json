@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/julianbenchimol/book-search-engine/static/css/main.ef966759.chunk.css",
+    "main.js": "/julianbenchimol/book-search-engine/static/js/main.fba5e465.chunk.js",
+    "main.js.map": "/julianbenchimol/book-search-engine/static/js/main.fba5e465.chunk.js.map",
+    "runtime-main.js": "/julianbenchimol/book-search-engine/static/js/runtime-main.4e0c5605.js",
+    "runtime-main.js.map": "/julianbenchimol/book-search-engine/static/js/runtime-main.4e0c5605.js.map",
+    "static/css/2.c4e73993.chunk.css": "/julianbenchimol/book-search-engine/static/css/2.c4e73993.chunk.css",
+    "static/js/2.cdd7c300.chunk.js": "/julianbenchimol/book-search-engine/static/js/2.cdd7c300.chunk.js",
+    "static/js/2.cdd7c300.chunk.js.map": "/julianbenchimol/book-search-engine/static/js/2.cdd7c300.chunk.js.map",
+    "index.html": "/julianbenchimol/book-search-engine/index.html",
+    "static/css/2.c4e73993.chunk.css.map": "/julianbenchimol/book-search-engine/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.ef966759.chunk.css.map": "/julianbenchimol/book-search-engine/static/css/main.ef966759.chunk.css.map",
+    "static/js/2.cdd7c300.chunk.js.LICENSE.txt": "/julianbenchimol/book-search-engine/static/js/2.cdd7c300.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e0c5605.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.cdd7c300.chunk.js",
+    "static/css/main.ef966759.chunk.css",
+    "static/js/main.fba5e465.chunk.js"
+  ]
+}
